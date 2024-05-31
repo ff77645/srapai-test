@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "posters",
+  "info": {
+    "singularName": "poster",
+    "pluralName": "posters",
+    "displayName": "poster"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tt": {
+      "displayName": "tt",
+      "type": "component",
+      "repeatable": false,
+      "component": "tt.tt"
+    }
+  }
+}
